@@ -1,4 +1,4 @@
-FROM python:3.9-slim
+FROM python:3.8
 
 # 작업 디렉터리를 설정합니다.
 WORKDIR /app
